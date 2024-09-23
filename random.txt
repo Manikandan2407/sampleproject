@@ -1,2 +1,2 @@
 To check Diff in Git 
-extra line  to  check diff
+extra lines to check diff
