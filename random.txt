@@ -6,8 +6,4 @@ to check random.txt file
 is added into new branch
 ---------------------------
 New branch created as sample
-<<<<<<< HEAD
 to check  random.txt file
-=======
-to check random.txt files
->>>>>>> 5427060af0676a0f8c5d531d394bb1e54f4c93d4
