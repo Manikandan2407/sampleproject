@@ -4,3 +4,6 @@ extra lines to check diff
 New branch created as demo
 to check random.txt file
 is added into new branch
+---------------------------
+New branch created as sample
+to check random.txt file
