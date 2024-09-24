@@ -1,7 +1,4 @@
 To testing reset and stashing
 testing reset and stashes
-<<<<<<< Updated upstream
 adding line
-=======
 adding new line
->>>>>>> Stashed changes
