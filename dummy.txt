@@ -1,2 +1,2 @@
 testing reset and stashes
-adding new
+adding line
