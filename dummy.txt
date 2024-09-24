@@ -1,1 +1,2 @@
 To testing reset and stashing
+testing reset and stashes
